@@ -11,3 +11,6 @@ print("yes")
 print(stringrot("something"))
 for foo in stringrot("something"):
     print(foo)
+
+
+print("Hello, from fork!")
